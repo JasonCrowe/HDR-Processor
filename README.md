@@ -13,4 +13,4 @@ The processed images will be ready to import into a HDR Processing software.
 
 Final Image processed with Fusion from http://fusion-hdr.com/:
 
-![processed image](/OUTPUT/Original_Image_01_hdr_mode_1.jpg&raw=true "Processed Image")
+![processed image](/OUTPUT/Original_Image_01_hdr_mode_1.jpg)
