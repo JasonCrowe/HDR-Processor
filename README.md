@@ -10,3 +10,6 @@ This script will begin watching the current directory for .jpg files. From each 
 * Original Image
 
 The processed images will be ready to import into a HDR Processing software.
+
+Final Image processed with Fusion from http://fusion-hdr.com/:
+![processed image](https://github.com/JasonCrowe/HDR-Processor/OUTPUT/Original_Image_01_hdr_mode_1.jpg)
